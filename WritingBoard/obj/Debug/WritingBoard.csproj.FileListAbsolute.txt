@@ -1,0 +1,14 @@
+E:\TYH\Windows程序设计\Writing board\WritingBoard\bin\Debug\WritingBoard.exe.config
+E:\TYH\Windows程序设计\Writing board\WritingBoard\bin\Debug\WritingBoard.exe
+E:\TYH\Windows程序设计\Writing board\WritingBoard\bin\Debug\WritingBoard.pdb
+E:\TYH\Windows程序设计\Writing board\WritingBoard\obj\Debug\WritingBoard.csprojAssemblyReference.cache
+E:\TYH\Windows程序设计\Writing board\WritingBoard\obj\Debug\WritingBoard.Properties.Resources.resources
+E:\TYH\Windows程序设计\Writing board\WritingBoard\obj\Debug\WritingBoard.WritingBoard.resources
+E:\TYH\Windows程序设计\Writing board\WritingBoard\obj\Debug\WritingBoard.csproj.GenerateResource.cache
+E:\TYH\Windows程序设计\Writing board\WritingBoard\obj\Debug\WritingBoard.csproj.CoreCompileInputs.cache
+E:\TYH\Windows程序设计\Writing board\WritingBoard\obj\Debug\WritingBoard.exe
+E:\TYH\Windows程序设计\Writing board\WritingBoard\obj\Debug\WritingBoard.pdb
+E:\TYH\Windows程序设计\Writing board\WritingBoard\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\TYH\Windows程序设计\Writing board\WritingBoard\obj\Debug\WritingBoard.csproj.CopyComplete
+E:\TYH\Windows程序设计\Writing board\WritingBoard\obj\Debug\WritingBoard.FindDialog.resources
+E:\TYH\Windows程序设计\Writing board\WritingBoard\obj\Debug\WritingBoard.MainForm.resources

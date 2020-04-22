@@ -1,0 +1,10 @@
+E:\TYH\Windows程序设计\Writing board\Writing board\bin\Debug\Writing board.exe.config
+E:\TYH\Windows程序设计\Writing board\Writing board\bin\Debug\Writing board.exe
+E:\TYH\Windows程序设计\Writing board\Writing board\bin\Debug\Writing board.pdb
+E:\TYH\Windows程序设计\Writing board\Writing board\obj\Debug\SimpleAlbum.csprojAssemblyReference.cache
+E:\TYH\Windows程序设计\Writing board\Writing board\obj\Debug\Writing_board.Properties.Resources.resources
+E:\TYH\Windows程序设计\Writing board\Writing board\obj\Debug\Writing_board.SimpleAlbum.resources
+E:\TYH\Windows程序设计\Writing board\Writing board\obj\Debug\SimpleAlbum.csproj.GenerateResource.cache
+E:\TYH\Windows程序设计\Writing board\Writing board\obj\Debug\SimpleAlbum.csproj.CoreCompileInputs.cache
+E:\TYH\Windows程序设计\Writing board\Writing board\obj\Debug\Writing board.exe
+E:\TYH\Windows程序设计\Writing board\Writing board\obj\Debug\Writing board.pdb
