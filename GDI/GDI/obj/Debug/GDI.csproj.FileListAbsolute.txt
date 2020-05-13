@@ -1,0 +1,12 @@
+E:\TYH\Windows程序设计\GDI\GDI\bin\Debug\GDI.exe.config
+E:\TYH\Windows程序设计\GDI\GDI\bin\Debug\GDI.exe
+E:\TYH\Windows程序设计\GDI\GDI\bin\Debug\GDI.pdb
+E:\TYH\Windows程序设计\GDI\GDI\obj\Debug\GDI.csprojAssemblyReference.cache
+E:\TYH\Windows程序设计\GDI\GDI\obj\Debug\GDI.Form1.resources
+E:\TYH\Windows程序设计\GDI\GDI\obj\Debug\GDI.Properties.Resources.resources
+E:\TYH\Windows程序设计\GDI\GDI\obj\Debug\GDI.csproj.GenerateResource.cache
+E:\TYH\Windows程序设计\GDI\GDI\obj\Debug\GDI.csproj.CoreCompileInputs.cache
+E:\TYH\Windows程序设计\GDI\GDI\obj\Debug\GDI.exe
+E:\TYH\Windows程序设计\GDI\GDI\obj\Debug\GDI.pdb
+E:\TYH\Windows程序设计\GDI\GDI\obj\Debug\GDI.Form2.resources
+E:\TYH\Windows程序设计\GDI\GDI\obj\Debug\GDI.Form3.resources
